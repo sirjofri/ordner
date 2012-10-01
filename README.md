@@ -16,3 +16,4 @@ Information
 ===========
 
 Shebang: #!/usr/bin/perl -w
+more information in the POD.md
