@@ -30,7 +30,7 @@ COPYRIGHT
 AVAILABILITY
 ============
 
-    newer versions and documentation here: sirjofri (dot) byto (dot) de
+    newer versions and documentation here: http://github.com/sirjofri/ordner
 
 AUTHOR
 ======

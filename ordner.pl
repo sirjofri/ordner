@@ -30,7 +30,7 @@ my $shell="aterm";
 
 =head1 AVAILABILITY
 
-    newer versions and documentation here: sirjofri (dot) byto (dot) de
+    newer versions and documentation here: http://github.com/sirjofri/ordner
 
 =head1 AUTHOR
 
