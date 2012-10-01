@@ -15,6 +15,5 @@ Requirements
 Information
 ===========
 
-Shebang: #!/usr/bin/perl -w
-
+Shebang: #!/usr/bin/perl -w\n
 more information in the POD.md
