@@ -15,8 +15,8 @@ BUGS
 
     no bugs known
 
-ACKNOWLEDGEMENTS
-================
+THANKS
+======
 
     thanks to all people using this script. Also thanks to the
     team of gtk2-perl for the great documentation.

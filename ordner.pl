@@ -19,7 +19,7 @@ my $shell="aterm";
 
     no bugs known
 
-=head1 ACKNOWLEDGEMENTS
+=head1 THANKS
 
     thanks to all people using this script. Also thanks to the
     team of gtk2-perl for the great documentation.
