@@ -6,9 +6,8 @@ very little file manager with not very much functions
 Requirements
 ============
 
--perl
--Gtk2 usable with perl
--Glib usable with perl
+- perl
+- gtk2-perl usable with perl
 
 Information
 ===========
