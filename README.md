@@ -13,5 +13,4 @@ Requirements
 Information
 ===========
 
-Shebang:
-#!/usr/bin/perl -w
+Shebang: #!/usr/bin/perl -w
