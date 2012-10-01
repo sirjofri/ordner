@@ -7,7 +7,7 @@ Requirements
 ============
 
 - perl
-- gtk2-perl usable with perl
+- gtk2-perl
 
 Information
 ===========
