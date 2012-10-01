@@ -1,11 +1,14 @@
 ordner
 ======
 
-very little file manager with not very much functions
+very little file manager with not very much functions, written in perl
 
 Requirements
 ============
 
+- any linux-distribution
+- any kind of x-server
+- any kind of window manager
 - perl
 - gtk2-perl
 
