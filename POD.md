@@ -6,7 +6,7 @@ NAME
 DESCRIPTION
 ===========
 
-    shows all the folders and files of an chosen folder.
+    shows all the folders and files of a chosen folder.
     It has two sections (two little filemanagers). It's just under Development, so
     I don't know the features coming in future.
 
